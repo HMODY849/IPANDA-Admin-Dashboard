@@ -146,7 +146,7 @@ ul{
     border-radius: 18px;
 }
 .search-bar:hover{
-    background-color: lightgreen;
+    background-color: rgba(192, 251, 192, 0.884);
 }
 
 
